@@ -15,6 +15,12 @@
       Phím Q: Xóa hình tròn
       Phím W: Xóa hình chữ nhật
       Phím E: Xóa hình tam giác
+      
 **Video demo:**
-https://github.com/DRM-T/DaHinh3/assets/125747869/51ddbd1e-502e-4bfb-ad23-dc3fe3a61d14
+
+<video width="560" height="315" controls>
+  <source src="https://www.canva.com/design/DAF3gByxzs8/RVKW66Zsi1AUkssca8n3xg/watch?utm_content=DAF3gByxzs8&utm_campaign=designshare&utm_medium=link&utm_source=editor" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
