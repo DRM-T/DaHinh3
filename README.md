@@ -18,9 +18,5 @@
       
 **Video demo:**
 
-<video width="560" height="315" controls>
-  <source src="https://www.canva.com/design/DAF3gByxzs8/RVKW66Zsi1AUkssca8n3xg/watch?utm_content=DAF3gByxzs8&utm_campaign=designshare&utm_medium=link&utm_source=editor.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+https://github.com/DRM-T/DaHinh3/assets/125747869/37984a1c-2c91-44db-b6d3-9218807dec39
 
